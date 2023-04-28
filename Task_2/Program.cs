@@ -11,6 +11,7 @@ namespace Task_2
         static void Main(string[] args)
         {
 
+            //тут неявний апкаст
             Pupil[] pupils =
             {
                 new GoodPupil("Artem", "Pridchenco"),
